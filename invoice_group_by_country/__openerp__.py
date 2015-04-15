@@ -25,6 +25,7 @@
     'category' : 'Invoice',
     'description' : """
         Añade la posibilidad de agrupar por país en las facturas de cliente
+        Patrocinado por NetBuró
     """,
     'author' : 'Juanjo Algaz, jalgaz@gmail.com',
     'website' : 'http://www.malagatic.com',
